@@ -37,7 +37,8 @@ hr {
 }
 
 a{
-  color: #11999E;
+  /*color: #11999E;*/
+  color: #0f898E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -79,7 +80,7 @@ a:hover {
 }
 
 .pro {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .intro {
@@ -106,7 +107,7 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 200px;
+  left: 250px;
   bottom: 300px;
 }
 
